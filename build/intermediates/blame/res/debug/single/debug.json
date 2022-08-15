@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_face.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\face.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_switch_camera.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\switch_camera.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_unmute.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\unmute.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_city.jpg.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\city.jpg"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_mute.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\mute.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\layout_tutorial1_surface_view.xml.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\layout\\tutorial1_surface_view.xml"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_nature.jpg.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\nature.jpg"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_onpu.jpg.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\onpu.jpg"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_record.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_switch_camera_rt.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\switch_camera_rt.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_stop_record.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\stop_record.png"
+    },
+    {
+        "merged": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "B:\\Workspace\\OpenCV-android-sdk\\samples\\FaceSeg5\\res\\drawable\\bg.png"
+    }
+]

@@ -1,0 +1,28 @@
+org.opencv.samples.tutorial1
+attr camera_id
+attr show_fps
+drawable bg
+drawable city
+drawable face
+drawable icon
+drawable mute
+drawable nature
+drawable onpu
+drawable record
+drawable stop_record
+drawable switch_camera
+drawable switch_camera_rt
+drawable unmute
+id any
+id back
+id bgbutton
+id facebutton
+id front
+id mutebutton
+id segmentor_activity_java_surface_view
+id snapbutton
+id switchcambutton
+id ui_layout
+layout tutorial1_surface_view
+string app_name
+styleable CameraBridgeViewBase camera_id show_fps
